@@ -3,12 +3,12 @@ appVersion: "1.23.3"
 deprecated: false
 description: A self-hosted Monitoring tool like "Uptime-Robot".
 home: https://github.com/dirsigler/uptime-kuma-helm
-icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png
+icon: https://raw.githubusercontent.com/Aelieve-IT/aelieve-uptime-kuma/master/public/icon.png
 maintainers:
   - name: dirsigler
     email: dennis@irsigler.dev
 name: uptime-kuma
 sources:
-  - https://github.com/louislam/uptime-kuma
+  - https://github.com/Aelieve-IT/aelieve-uptime-kuma
 type: application
 version: 2.15.0

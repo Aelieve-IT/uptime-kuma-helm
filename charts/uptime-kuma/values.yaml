@@ -3,10 +3,10 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: louislam/uptime-kuma
+  repository: andrewaelieveit/aelieve-uptime-kuma
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.23.3-debian"
+  tag: "1.23.7-debian"
 
 imagePullSecrets: []
 nameOverride: ""
